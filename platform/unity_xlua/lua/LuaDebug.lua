@@ -19,7 +19,7 @@
 --- * debugSethook : 原生的未修改 coroutine.sethook 方法；
 ---
 
-DebugRequire = realRequire or require
+DebugRequire = require
 
 DebugRequire("DebugPrint")
 

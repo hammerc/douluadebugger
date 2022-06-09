@@ -1,9 +1,5 @@
-# Change Log
+# 改动日志
 
-All notable changes to the "douluadebugger" extension will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- 可调试及真机调试；
