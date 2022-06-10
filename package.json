@@ -10,6 +10,8 @@
         "lua",
         "debug"
     ],
+    "publisher": "wizardc",
+    "icon": "res/icon.png",
     "categories": [
         "Debuggers"
     ],
